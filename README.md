@@ -1,1 +1,1 @@
-![image](https://github.com/user-attachments/assets/3d996d88-d68d-4af4-a622-00f26659875f)![header](https://capsule-render.vercel.app/api?type=venom&color=568A35&height=300&section=header&text=Hello!-nl-This%20is%20Chon's%20GitHub!&&fontColor=BFDE9B&fontSize=50&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=568A35&height=300&section=header&text=Hello!-nl-This%20is%20Chon's%20GitHub!&&fontColor=BFDE9B&fontSize=50&fontAlign=50)
