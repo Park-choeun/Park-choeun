@@ -12,23 +12,12 @@
 #### 💻Tool: <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-2F80ED?style=flat&logo=vscode&logoColor=white"/>
 
 ---
-<table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-choeun&layout=compact&theme=dark">
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
-        </td>
-    </tr>
-    <tr style="border: none;">
-        <td>
-            <a href="https://solved.ac/chdms7471">
-                <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chdms7471" width="330">
-            </a>
-        </td>
-    </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-choeun&layout=compact&theme=dark"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
+</p>
+<a href="https://solved.ac/chdms7471">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chdms7471" width="330">
+</a>
 
 
 
