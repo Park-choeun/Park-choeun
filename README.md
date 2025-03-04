@@ -3,7 +3,7 @@
 
 # ☘ ***About Me..***
 
-#### 💻 Backend: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColohite"/> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+#### 💻 Backend: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=spring&logoColohite&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
 
 #### 💻 Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white" />
 
@@ -12,9 +12,9 @@
 #### 💻Tool: <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-2F80ED?style=flat&logo=vscode&logoColor=white"/>
 
 ---
+![GitHub Stats](https://github.com/Park-choeun/github-stats-transparent/blob/output/generated/languages.svg)
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-choeun&layout=compact&theme=dark">
-    &nbsp;&nbsp;&nbsp;
     <a href="https://solved.ac/chdms7471">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chdms7471" width="330">
     </a>
