@@ -13,10 +13,11 @@
 
 ---
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-choeun&layout=compact&theme=dark">
+    &nbsp;&nbsp;&nbsp;
     <a href="https://solved.ac/chdms7471">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chdms7471" width="330">
-    </a>&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park-choeun&layout=compact&theme=dark">
+    </a>
     </p>
     <img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
 </div>
