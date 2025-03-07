@@ -17,12 +17,8 @@
 ---
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Park-choeun/github-stats-transparent/output/generated/languages.svg" width="330" height="160">
+    <img src="https://raw.githubusercontent.com/Park-choeun/github-stats-transparent/output/generated/languages.svg" width="400" height="200">
     &nbsp;&nbsp;&nbsp;
-    <a href="https://solved.ac/chdms7471">
-        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chdms7471" width="330">
-    </a>
-    </p>
     <img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
 </div>
 
