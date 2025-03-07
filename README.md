@@ -16,11 +16,7 @@
 
 ---
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Park-choeun/github-stats-transparent/output/generated/languages.svg" width="400" height="200">
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
-</div>
+<img src="https://raw.githubusercontent.com/Park-choeun/github-stats-transparent/output/generated/languages.svg" width="350" height="200">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
 
 
 
