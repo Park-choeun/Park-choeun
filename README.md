@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=568A35&height=250&section=header&text=Hello!-nl-This%20is%20Chon's%20GitHub☘&&fontColor=BFDE9B&fontSize=50&fontAlign=50)
 
-### 🌱 ***About Me..***
+### 🌱 ***About Me ***
 ---
+#### 👾 QA: <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-7A1FA2?style=flat&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat&logo=google sheets&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-FF6A00?style=flat&logo=playwright&logoColor=white" />
 
 #### 💻 Backend: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=spring&logoColohite&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-34567C?style=flat&logo=jpa&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-D24939?style=flat&logo=mybatis&logoColor=white"/>
 
@@ -12,11 +13,11 @@
 
 #### 🛢 Database: <img src="https://img.shields.io/badge/Oracle-D24939?style=flat&logo=oracle&logoColor=white"/>
 
-#### 🔧Tool: <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-2F80ED?style=flat&logo=vscode&logoColor=white"/>
+#### 🔧 Tool: <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-2F80ED?style=flat&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-009639?style=flat&logo=pycharm&logoColor=white"/>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Park-choeun/github-stats-transparent/output/generated/languages.svg" width="350" height="200">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Park-choeun&show_icons=true&theme=dark">
+<img src="https://raw.githubusercontent.com/Park-choeun/github-stats-transparent/output/generated/languages.svg" width="350" height="200">
 
 
 
