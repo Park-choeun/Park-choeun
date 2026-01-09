@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=568A35&height=250&section=header&text=Hello!-nl-This%20is%20Chon's%20GitHub☘&&fontColor=BFDE9B&fontSize=50&fontAlign=50)
 
-### 🌱 *** About Me ***
+### 🌱 About Me
 ---
 #### 👾 QA: <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-7A1FA2?style=flat&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleSheets-34A853?style=flat&logo=googlesheets&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-FF6A00?style=flat&logo=playwright&logoColor=white" />
 
